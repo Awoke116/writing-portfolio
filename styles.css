@@ -1,0 +1,15 @@
+body {background-color: yellow;
+    margin-left: 45px;
+}
+        span {background-color: white; 
+            margin-left: 45px; margin-top: 24px;
+            display: inline-block; height: 48px; 
+            width: 25%; text-align: center;
+        }
+        a {
+            color: black;
+        }
+
+        a :hover {
+            background-color: wheat;
+        }
