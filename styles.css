@@ -5,6 +5,8 @@ body {background-color: yellow;
             margin-left: 45px; margin-top: 24px;
             display: inline-block; height: 96px; 
             width: 25%; text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            line-height: 96px;
         }
         a {
             color: black;
@@ -17,4 +19,10 @@ body {background-color: yellow;
         img {
             float:right;
             vertical-align: middle;
+        }
+
+        footer {
+            display: block;
+            text-align: center;
+            clear: right;
         }
