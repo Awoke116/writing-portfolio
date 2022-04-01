@@ -2,8 +2,8 @@ body {background-color: yellow;
     margin-left: 45px;
 }
         span {background-color: white; 
-            margin-left: 45px; margin-top: 24px; height: auto; 
-            width: 25%; text-align: center;
+            margin-top: 24px; height: auto; 
+            width: 50%; text-align: center;
             font-family: 'Courier New', Courier, monospace;
             line-height: 96px; display: inline-block;
             
